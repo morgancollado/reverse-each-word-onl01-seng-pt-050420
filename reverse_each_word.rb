@@ -1,9 +1,9 @@
 def reverse_each_word(sentence)
-  sentance = []
-  sentance.each do |sentance|
+  sentence = []
+  sentence.each do |sentence|
     puts "olleH ,ereht dna woh era ?uoy"
-    sentance << "olleH ,ereht dna woh era ?uoy"
+    sentence << "olleH ,ereht dna woh era ?uoy"
   end 
-  sentance
+  sentence
 
 end 
