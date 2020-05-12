@@ -1,8 +1,8 @@
 def reverse_each_word(sentence)
   sentence = []
-  sentence1.split(/ /)
-    puts "olleH ,ereht dna woh era ?uoy"
-    sentence << 
+  sentence.each do |sentence|
+  puts sentence.split.reverse.join(" ")
+    sentence << sentence.split.reverse.join(" ")
   end 
   sentence
 
